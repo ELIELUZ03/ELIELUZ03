@@ -63,6 +63,7 @@ Estou sempre aberta a novas oportunidades e colaborações. Se você tiver algum
 ---
 
 <!-- Animação de Contribuições -->
-![Snake animation](https://github.com/ELIELUZ03/ELIELUZ03/blob/output/github-contribution-grid-snake.svg)
+![Python Animation](https://media.giphy.com/media/2tkkqrOBFSBylOS9Ri/giphy.gif)
+
 
 
