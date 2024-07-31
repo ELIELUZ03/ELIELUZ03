@@ -63,7 +63,7 @@ Estou sempre aberta a novas oportunidades e colaborações. Se você tiver algum
 ---
 
 <!-- Animação de Contribuições -->
-![Python Animation](https://media.giphy.com/media/2tkkqrOBFSBylOS9Ri/giphy.gif)
+![Python Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg2dnRnMjh4Z2ltYnh0bDRoaWQ1b2Rjdmgya2x3YWM4dGx4NHp2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 
