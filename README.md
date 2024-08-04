@@ -35,6 +35,9 @@ Com um forte entendimento em **análise de dados** e uma sólida formação acad
 <!-- Projetos Recentes -->
 ## 📚 Projetos Recentes
 
+### Análise de Criminalidade 2024
+- **Descrição**: Projeto de análise de dados de criminalidade em São Paulo utilizando Python e Pandas. Inclui a análise de variações anuais e visualização de dados.
+- **Repositório**: [Análise de Criminalidade 2024](https://github.com/ELIELUZ03/AnaliseCriminalidade2024)
 
 
 ---
