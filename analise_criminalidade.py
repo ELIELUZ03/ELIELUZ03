@@ -18,3 +18,4 @@ print(contagem_natureza)
 df['variacao'] = (df['2024'] - df['2023']) / df['2023'] * 100
 print(df[['MUNICIPIO', 'variacao']])
 
+# Este é um comentário de teste para forçar um commit
