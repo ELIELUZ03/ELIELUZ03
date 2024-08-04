@@ -6,9 +6,10 @@ Sou uma **Analista de Dados Júnior** com formação em **Tecnologia em Análise
 ---
 
 <!-- Estatísticas do GitHub -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELIELUZ03&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIELUZ03&layout=compact&langs_count=10&theme=dark" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ELIELUZ03&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIELUZ03&layout=compact&langs_count=10&theme=radical" alt="Linguagens mais usadas"/>
 </div>
 <br>
 
