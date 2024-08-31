@@ -23,12 +23,25 @@ Com um forte entendimento em **análise de dados** e uma sólida formação acad
 ---
 
 <!-- Habilidades e Tecnologias -->
+
 ## 🛠️ Habilidades e Tecnologias
 
-- **Análise de Dados**: Pandas, NumPy, SQL
-- **Visualização de Dados**: Tableau, Power BI
-- **Linguagens**: Python, SQL
-- **Ferramentas**: Excel, Jupyter Notebooks
+- **Análise de Dados**: Pandas, NumPy, SQL  
+- **Visualização de Dados**: Tableau, Power BI  
+- **Linguagens**: Python, SQL  
+- **Ferramentas**: Excel, Jupyter Notebooks  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="30" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="30" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter Notebooks"/>
+</p>
+
 
 
 ---
@@ -54,15 +67,19 @@ Com um forte entendimento em **análise de dados** e uma sólida formação acad
 <!-- Redes Sociais e Contato -->
 ## 🌐 Conecte-se Comigo
 
-- [LinkedIn](https://www.linkedin.com/in/eliete-luz-6a694281/) 🌟
-- [Email](mailto:eliete.victorialuz@gmail.com) 📧
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliete-luz-6a694281/)
+- [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eliete.victorialuz@gmail.com)
+- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/eliete_victorialuz)
+- [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELIELUZ03)
+<br />
+<br />
 
 ---
 
 <!-- Contribuições e Feedback -->
 ## 📈 Contribuições
 
-Estou sempre aberta a novas oportunidades e colaborações. Se você tiver alguma ideia ou projeto interessante, sinta-se à vontade para entrar em contato!
+Estou sempre em busca de aprender e crescer na área de análise de dados. Adoraria colaborar em projetos e trocar experiências com outros profissionais. Se você tiver uma ideia, um projeto interessante ou quiser compartilhar conhecimento, será um prazer conectar! Vamos aprender e evoluir juntos!
 
 ---
 
